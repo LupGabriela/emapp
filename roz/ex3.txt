@@ -1,0 +1,696 @@
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+bool a
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+bool a
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+bool a
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> true
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> true
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> true
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> true
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+v = 2
+print(v)
+
+SymTable:
+a -> true
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+v = 2
+print(v)
+
+SymTable:
+a -> true
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+print(v)
+
+SymTable:
+a -> true
+v -> 2
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+print(v)
+
+SymTable:
+a -> true
+v -> 2
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 2
+ExeStack:
+
+SymTable:
+a -> true
+v -> 2
+
+Out:
+2
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+bool a
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+bool a
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+bool a
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+int v
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+a = true
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> false
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> true
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> true
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> true
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+(IF(a)THEN(v = 2)ELSE(v = 3))
+print(v)
+
+SymTable:
+a -> true
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+v = 2
+print(v)
+
+SymTable:
+a -> true
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+v = 2
+print(v)
+
+SymTable:
+a -> true
+v -> 0
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+print(v)
+
+SymTable:
+a -> true
+v -> 2
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+print(v)
+
+SymTable:
+a -> true
+v -> 2
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 3
+ExeStack:
+
+SymTable:
+a -> true
+v -> 2
+
+Out:
+2
+
+FileTable:
+
+HeapTable:
+
+

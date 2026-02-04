@@ -1,0 +1,190 @@
+----------------------------------------------- 
+ ID: 1
+ExeStack:
+Ref(int) v
+new(v, 20)
+Ref(Ref(int)) a
+new(a, v)
+print(readHeap(v))
+print(readHeap(readHeap(a))+5)
+
+SymTable:
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 1
+ExeStack:
+Ref(int) v
+new(v, 20)
+Ref(Ref(int)) a
+new(a, v)
+print(readHeap(v))
+print(readHeap(readHeap(a))+5)
+
+SymTable:
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 1
+ExeStack:
+Ref(int) v
+new(v, 20)
+Ref(Ref(int)) a
+new(a, v)
+print(readHeap(v))
+print(readHeap(readHeap(a))+5)
+
+SymTable:
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 1
+ExeStack:
+new(v, 20)
+Ref(Ref(int)) a
+new(a, v)
+print(readHeap(v))
+print(readHeap(readHeap(a))+5)
+
+SymTable:
+v -> (0,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 1
+ExeStack:
+new(v, 20)
+Ref(Ref(int)) a
+new(a, v)
+print(readHeap(v))
+print(readHeap(readHeap(a))+5)
+
+SymTable:
+v -> (0,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 1
+ExeStack:
+new(v, 20)
+Ref(Ref(int)) a
+new(a, v)
+print(readHeap(v))
+print(readHeap(readHeap(a))+5)
+
+SymTable:
+v -> (0,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 1
+ExeStack:
+new(v, 20)
+Ref(Ref(int)) a
+new(a, v)
+print(readHeap(v))
+print(readHeap(readHeap(a))+5)
+
+SymTable:
+v -> (0,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+----------------------------------------------- 
+ ID: 1
+ExeStack:
+Ref(Ref(int)) a
+new(a, v)
+print(readHeap(v))
+print(readHeap(readHeap(a))+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+1 -> 20
+
+
+----------------------------------------------- 
+ ID: 1
+ExeStack:
+Ref(Ref(int)) a
+new(a, v)
+print(readHeap(v))
+print(readHeap(readHeap(a))+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+1 -> 20
+
+
+----------------------------------------------- 
+ ID: 1
+ExeStack:
+Ref(Ref(int)) a
+new(a, v)
+print(readHeap(v))
+print(readHeap(readHeap(a))+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+1 -> 20
+
+

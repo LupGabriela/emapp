@@ -1,0 +1,300 @@
+ExeStack:
+Ref(int) v
+new(v, 20)
+print(v)
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+ExeStack:
+Ref(int) v
+new(v, 20)
+print(v)
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+ExeStack:
+Ref(int) v
+new(v, 20)
+print(v)
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+ExeStack:
+new(v, 20)
+print(v)
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+v -> (0,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+ExeStack:
+new(v, 20)
+print(v)
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+v -> (0,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+ExeStack:
+new(v, 20)
+print(v)
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+v -> (0,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+ExeStack:
+new(v, 20)
+print(v)
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+v -> (0,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+
+
+ExeStack:
+print(v)
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+1 -> 20
+
+
+ExeStack:
+print(v)
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+1 -> 20
+
+
+ExeStack:
+print(v)
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+1 -> 20
+
+
+ExeStack:
+print(v)
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+
+FileTable:
+
+HeapTable:
+1 -> 20
+
+
+ExeStack:
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+20
+
+FileTable:
+
+HeapTable:
+1 -> 20
+
+
+ExeStack:
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+20
+
+FileTable:
+
+HeapTable:
+1 -> 20
+
+
+ExeStack:
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+20
+
+FileTable:
+
+HeapTable:
+1 -> 20
+
+
+ExeStack:
+writeHeap(v, 30)
+print(v+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+20
+
+FileTable:
+
+HeapTable:
+1 -> 20
+
+
+ExeStack:
+print(v+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+20
+
+FileTable:
+
+HeapTable:
+1 -> 30
+
+
+ExeStack:
+print(v+5)
+
+SymTable:
+v -> (1,int)
+
+Out:
+20
+
+FileTable:
+
+HeapTable:
+1 -> 30
+
+
+ExeStack:
+
+SymTable:
+v -> (1,int)
+
+Out:
+20
+35
+
+FileTable:
+
+HeapTable:
+1 -> 30
+
+
+ExeStack:
+
+SymTable:
+v -> (1,int)
+
+Out:
+20
+35
+
+FileTable:
+
+HeapTable:
+1 -> 30
+
+
